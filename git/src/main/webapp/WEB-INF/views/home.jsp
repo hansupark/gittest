@@ -11,7 +11,7 @@
 <h1>
 	Hello world!  
 </h1><hr>
-<h2>웹서비스 개발 과정 정강이야!</h2>
+<h2>웹서비스 개발 과정 정강이야! 으악</h2>
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
